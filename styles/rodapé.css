@@ -1,0 +1,23 @@
+hr {
+    margin: 0;
+}
+
+.rodapé{
+    display: flex;
+    justify-items: center;
+    padding: 1em;  
+    background-color: var(--branco);
+}
+
+.tituto__rodapé{
+    font-weight: 400;
+    margin: 0;
+
+}
+
+
+@media screen and (min-width: 1024px){
+    .tituto__rodapé{
+        margin: 0 1em 0 6em;
+    } 
+}

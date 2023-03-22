@@ -1,0 +1,66 @@
+
+.card_2{
+    background: var(--branca);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin: 1em;
+    padding: 1em;
+}
+
+.card-2__descrição{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.2em;
+
+}
+
+.titulo-2{
+    color: var(--laranja);
+    font-weight: 700;
+    font-size: 16px;
+
+}
+
+.titulo-3{  
+    color: var(--azul);
+    font-size: 19px;
+    font-weight: 700;
+    margin: 0.5em 0;
+
+}
+
+.texto-card{
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0px 8px 0px 0px;
+
+}
+
+.card2-img{
+    border-radius: 8px;
+}
+
+.estrela-img{
+    margin:0 0 0.5em 0;
+}
+
+.card__botões2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.botões-2{
+    display: flex;
+}
+
+.botões__ancora-2{
+    background-color: var(--laranja);
+    padding: 1em 2.2em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
+    margin-top: 0.5em;
+}
+
+
+
